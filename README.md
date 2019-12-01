@@ -2,6 +2,7 @@
 Historia de los computadores y lenguajes de programación
 
 Video 1 Inicios de las computadoras.
+
 Nos cuenta un resumen de los primeros computadores creados por la humanidad, entre ellos el Abaco, inventado en Mesepotamia por los años 2500 AC, una calculadora manual que ayudaba a sumar, restar varios números y almacenar los valores. Durante los próximos 4 mil años se desarrollaron otros mecanismos computacionales, como el "Astrolabo" que calculaba la latitud del mar; la regla deslizante que ayudaba en la multiplicación y división y otros cientos de aparatos para múltiples cálculos. En 1694 Gottfried Leibniz inventa el “Contador de Pasos” que sumaba, restaba, multiplicaba y dividía de forma automática. En 1822 Charles Babbage propone el “Computador Diferencial” el cual resolvía polinomios. Babbage también propuso el Computador Analítico siendo Ada Lovelace la primera programadora de la historia.
 
 Video 2 Computación Electrónica.
