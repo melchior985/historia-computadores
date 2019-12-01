@@ -5,7 +5,7 @@ Video 1 Inicios de las computadoras.
 
 Nos cuenta un resumen de los primeros computadores creados por la humanidad, entre ellos el Abaco, inventado en Mesepotamia por los años 2500 AC, una calculadora manual que ayudaba a sumar, restar varios números y almacenar los valores. Durante los próximos 4 mil años se desarrollaron otros mecanismos computacionales, como el "Astrolabo" que calculaba la latitud del mar; la regla deslizante que ayudaba en la multiplicación y división y otros cientos de aparatos para múltiples cálculos. En 1694 Gottfried Leibniz inventa el “Contador de Pasos” que sumaba, restaba, multiplicaba y dividía de forma automática. En 1822 Charles Babbage propone el “Computador Diferencial” el cual resolvía polinomios. Babbage también propuso el Computador Analítico siendo Ada Lovelace la primera programadora de la historia.
 
-Video 2 Computación Electrónica.
+Video 2 Computación Electrónica. 
 En 1944 se construye el Harvard Mark I con miles de componentes y metros de cable, su uso era el de hacer simulaciones para el proyecto Manhattan. En 1947 en el Mark II, los operadores sacaron una polilla muerta de una de las partes, resultando en el primer virus de computadora. En 1943 Tommy Flowers crea el “Colossus  MK 1” que utilizaba tubos al vacío y su utilización era para descifrar códigos nazis. Su reemplazo fue la ENIAC el cual podía realizar miles de cálculos matemáticos por segundo. Debido a la poca fiabilidad de los tubos al vacío, se creó el transistor haciendo que se redujeran los tamaños de las computadoras y haciéndolas comerciales.
 
 Video 3 Compuertas Lógicas.
