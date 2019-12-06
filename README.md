@@ -1,4 +1,4 @@
-# historia-computadores
+# Historia de los Computadores
 Historia de los computadores y lenguajes de programación
 
 Inicios de las computadoras.
